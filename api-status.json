@@ -1,0 +1,14 @@
+{
+  "name": "videos", 
+  "env": [
+    {
+      "name": "development",
+      "scopes": [
+        "https://supersoccer.tv/auth/videos.read"
+      ]
+    },
+    {
+      "name": "production",
+      "scopes": []
+    }
+  ]
