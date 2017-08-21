@@ -1,4 +1,5 @@
 [
   { "id": "1", "hasActiveBeinPlan": true },
-  { "id": "2", "hasActiveBeinPlan": false }
+  { "id": "2", "hasActiveBeinPlan": false },
+  { "id": "3", "hasActiveBeinPlan": false }
 ]
