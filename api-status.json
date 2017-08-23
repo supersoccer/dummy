@@ -4,7 +4,7 @@
     {
       "name": "development",
       "scopes": [
-        "https://supersoccer.tv/auth/videos.read"
+        "https://api.supersoccer.tv/auth/videos.read"
       ]
     },
     {
