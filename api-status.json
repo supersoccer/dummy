@@ -8,6 +8,12 @@
       ]
     },
     {
+      "name": "staging",
+      "scopes": [
+        "https://api.supersoccer.tv/auth/videos.read"
+      ]
+    },
+    {
       "name": "production",
       "scopes": []
     }
