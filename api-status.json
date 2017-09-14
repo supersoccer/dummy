@@ -4,13 +4,15 @@
     {
       "name": "development",
       "scopes": [
-        "https://api.supersoccer.tv/auth/videos.read"
+        "https://api.supersoccer.tv/auth/videos.read",
+        "https://api.supersoccer.tv/auth/user.subscription.bein.read"
       ]
     },
     {
       "name": "staging",
       "scopes": [
-        "https://api.supersoccer.tv/auth/videos.read"
+        "https://api.supersoccer.tv/auth/videos.read",
+        "https://api.supersoccer.tv/auth/user.subscription.bein.read"
       ]
     },
     {
