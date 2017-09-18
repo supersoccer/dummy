@@ -5,14 +5,22 @@
       "name": "development",
       "scopes": [
         "https://api.supersoccer.tv/auth/videos.read",
-        "https://api.supersoccer.tv/auth/user.subscription.bein.read"
+        "https://api.supersoccer.tv/auth/user.subscription.bein.read",
+        "https://api.supersoccer.tv/videos/videos.read",
+        "https://api.supersoccer.tv/videos/videos.create",
+        "https://api.supersoccer.tv/videos/playlists.read",
+        "https://api.supersoccer.tv/videos/program-guide.read"
       ]
     },
     {
       "name": "staging",
       "scopes": [
         "https://api.supersoccer.tv/auth/videos.read",
-        "https://api.supersoccer.tv/auth/user.subscription.bein.read"
+        "https://api.supersoccer.tv/auth/user.subscription.bein.read",
+        "https://api.supersoccer.tv/videos/videos.read",
+        "https://api.supersoccer.tv/videos/videos.create",
+        "https://api.supersoccer.tv/videos/playlists.read",
+        "https://api.supersoccer.tv/videos/program-guide.read"
       ]
     },
     {
