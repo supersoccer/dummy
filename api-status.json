@@ -14,7 +14,12 @@
         "https://api.supersoccer.tv/videos/playlists.create",
         "https://api.supersoccer.tv/videos/playlists.update",
         "https://api.supersoccer.tv/videos/playlists.delete",
-        "https://api.supersoccer.tv/videos/program-guide.read"
+        "https://api.supersoccer.tv/videos/program-guide.read",
+        "https://api.supersoccer.tv/articles/articles.read",
+        "https://api.supersoccer.tv/articles/articles.create",
+        "https://api.supersoccer.tv/articles/articles.update",
+        "https://api.supersoccer.tv/articles/articles.delete",
+        "https://api.supersoccer.tv/articles/categories.read"
       ]
     },
     {
@@ -30,7 +35,12 @@
         "https://api.supersoccer.tv/videos/playlists.create",
         "https://api.supersoccer.tv/videos/playlists.update",
         "https://api.supersoccer.tv/videos/playlists.delete",
-        "https://api.supersoccer.tv/videos/program-guide.read"
+        "https://api.supersoccer.tv/videos/program-guide.read",
+        "https://api.supersoccer.tv/articles/articles.read",
+        "https://api.supersoccer.tv/articles/articles.create",
+        "https://api.supersoccer.tv/articles/articles.update",
+        "https://api.supersoccer.tv/articles/articles.delete",
+        "https://api.supersoccer.tv/articles/categories.read"
       ]
     },
     {
