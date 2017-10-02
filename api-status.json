@@ -27,7 +27,7 @@
         "https://api.supersoccer.tv/subscriptions/users.read",
         "https://api.supersoccer.tv/subscriptions/users.create",
         "https://api.supersoccer.tv/subscriptions/users.update",
-        "https://api.supersoccer.tv/subscriptions/users.delete",
+        "https://api.supersoccer.tv/subscriptions/users.delete"
       ]
     },
     {
@@ -56,7 +56,7 @@
         "https://api.supersoccer.tv/subscriptions/users.read",
         "https://api.supersoccer.tv/subscriptions/users.create",
         "https://api.supersoccer.tv/subscriptions/users.update",
-        "https://api.supersoccer.tv/subscriptions/users.delete",
+        "https://api.supersoccer.tv/subscriptions/users.delete"
       ]
     },
     {
