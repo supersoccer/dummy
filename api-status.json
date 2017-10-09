@@ -31,7 +31,15 @@
         "https://api.supersoccer.tv/orders/orders.read",
         "https://api.supersoccer.tv/orders/orders.create",
         "https://api.supersoccer.tv/orders/orders.update",
-        "https://api.supersoccer.tv/orders/orders.delete"
+        "https://api.supersoccer.tv/orders/orders.delete",
+        "https://api.supersoccer.tv/campaigns/banners.read",
+        "https://api.supersoccer.tv/campaigns/banners.create",
+        "https://api.supersoccer.tv/campaigns/banners.update",
+        "https://api.supersoccer.tv/campaigns/banners.delete",
+        "https://api.supersoccer.tv/campaigns/banner-positions.read",
+        "https://api.supersoccer.tv/campaigns/banner-positions.create",
+        "https://api.supersoccer.tv/campaigns/banner-positions.update",
+        "https://api.supersoccer.tv/campaigns/banner-positions.delete"
       ]
     },
     {
@@ -64,7 +72,15 @@
         "https://api.supersoccer.tv/orders/orders.read",
         "https://api.supersoccer.tv/orders/orders.create",
         "https://api.supersoccer.tv/orders/orders.update",
-        "https://api.supersoccer.tv/orders/orders.delete"
+        "https://api.supersoccer.tv/orders/orders.delete",
+        "https://api.supersoccer.tv/campaigns/banners.read",
+        "https://api.supersoccer.tv/campaigns/banners.create",
+        "https://api.supersoccer.tv/campaigns/banners.update",
+        "https://api.supersoccer.tv/campaigns/banners.delete",
+        "https://api.supersoccer.tv/campaigns/banner-positions.read",
+        "https://api.supersoccer.tv/campaigns/banner-positions.create",
+        "https://api.supersoccer.tv/campaigns/banner-positions.update",
+        "https://api.supersoccer.tv/campaigns/banner-positions.delete"
       ]
     },
     {
