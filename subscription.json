@@ -93,8 +93,8 @@
       "id": 1,
       "attributes": {
         "type": "PERCENTOFF",
-        "title": "12 Month Disc. 12.5%",
-        "amount": 12.5,
+        "title": "Disc. 12.5%",
+        "amount": 0.125,
         "minQty": 12
       }
     }
