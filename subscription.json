@@ -1,4 +1,176 @@
-[
-  { "id": "ZadIBIXmW0fb5Dflkiay96DQe1y1", "hasActiveBeinPlan": true },
-  { "id": "IDtokyudrqS6MwCghFwDiobkOt13", "hasActiveBeinPlan": false }
-]
+{
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "data": [{
+      "id": "1",
+      "title": "Premium",
+      "description": "This is the description.",
+      "permission": 2,
+      "chargingBase": 1,
+      "maxQty": 12,
+      "price": 35000,
+      "priceUnit": "bulan",
+      "currency": "idr",
+      "order": 20,
+      "default": true,
+      "icon": "https://url/to/icon",
+      "enabled": true,
+      "baseColor": "#f1c40f",
+      "textColor": "#ffffff",
+      "playlists": [{
+          "id": "PL5",
+          "name": "Serie A"
+        },
+        {
+          "id": "PL9",
+          "name": "La Liga"
+        }
+      ],
+      "quality": {
+        "type": "quality",
+        "id": 2,
+        "title": "SD",
+        "bitrate": "900kbps",
+        "width": 1024,
+        "height": 576
+      }
+    },
+    {
+      "id": "2",
+      "title": "HD",
+      "description": "This is the description.",
+      "permission": 2,
+      "chargingBase": 1,
+      "maxQty": 12,
+      "price": 35000,
+      "priceUnit": "bulan",
+      "currency": "idr",
+      "order": 10,
+      "default": true,
+      "icon": "https://url/to/icon",
+      "enabled": true,
+      "baseColor": "#1abc9c",
+      "textColor": "#ffffff",
+      "playlists": [{
+          "id": "PL5",
+          "name": "La Liga 2017-2018"
+        },
+        {
+          "id": "PL9",
+          "name": "La Liga"
+        }
+      ],
+      "quality": {
+        "type": "quality",
+        "id": 2,
+        "title": "HD",
+        "bitrate": "2300kbps",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
+      "id": "3",
+      "title": "Super",
+      "description": "This is the description.",
+      "permission": 2,
+      "chargingBase": 1,
+      "maxQty": 12,
+      "price": 35000,
+      "priceUnit": "bulan",
+      "currency": "idr",
+      "order": 30,
+      "default": true,
+      "icon": "https://url/to/icon",
+      "enabled": true,
+      "baseColor": "#F2101A",
+      "textColor": "#ffffff",
+      "playlists": [{
+          "id": "PL5",
+          "name": "La Liga 2017-2018"
+        },
+        {
+          "id": "PL9",
+          "name": "La Liga"
+        }
+      ],
+      "quality": {
+        "type": "quality",
+        "id": 2,
+        "title": "HD",
+        "bitrate": "2300kbps",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
+      "id": "4",
+      "title": "VideoMax Super Soccer TV",
+      "description": "This is the description.",
+      "permission": 2,
+      "chargingBase": 1,
+      "maxQty": 12,
+      "price": 15000,
+      "priceUnit": "hari",
+      "currency": "idr",
+      "order": 40,
+      "default": true,
+      "icon": "https://url/to/icon",
+      "enabled": true,
+      "baseColor": "#B21119",
+      "textColor": "#ffffff",
+      "playlists": [{
+          "id": "PL5",
+          "name": "La Liga 2017-2018"
+        },
+        {
+          "id": "PL9",
+          "name": "La Liga"
+        }
+      ],
+      "quality": {
+        "type": "quality",
+        "id": 2,
+        "title": "HD",
+        "bitrate": "2300kbps",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
+      "id": "5",
+      "title": "beIN",
+      "description": "This is the description.",
+      "permission": 2,
+      "chargingBase": 1,
+      "maxQty": 12,
+      "price": 35000,
+      "priceUnit": "bulan",
+      "currency": "idr",
+      "order": 50,
+      "default": true,
+      "icon": "https://url/to/icon",
+      "enabled": true,
+      "baseColor": "#9b59b6",
+      "textColor": "#ffffff",
+      "playlists": [{
+          "id": "PL5",
+          "name": "La Liga 2017-2018"
+        },
+        {
+          "id": "PL9",
+          "name": "La Liga"
+        }
+      ],
+      "quality": {
+        "type": "quality",
+        "id": 2,
+        "title": "HD",
+        "bitrate": "2300kbps",
+        "width": 1280,
+        "height": 720
+      }
+    }
+  ]
+}
