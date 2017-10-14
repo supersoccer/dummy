@@ -19,7 +19,8 @@
         "icon": "https://url/to/icon",
         "enabled": true,
         "baseColor": "#f1c40f",
-        "textColor": "#ffffff"
+        "textColor": "#ffffff",
+        "terms": "bla bla"
       },
       "relationships": {
         "playlist": {
@@ -64,7 +65,8 @@
         "icon": "https://url/to/icon",
         "enabled": true,
         "baseColor": "#1abc9c",
-        "textColor": "#ffffff"
+        "textColor": "#ffffff",
+        "terms": "bla bla"
       },
       "relationships": {
         "playlist": {
@@ -110,7 +112,8 @@
         "icon": "https://url/to/icon",
         "enabled": true,
         "baseColor": "#F2101A",
-        "textColor": "#ffffff"
+        "textColor": "#ffffff",
+        "terms": "bla bla"
       },
       "relationships": {
         "playlist": {
@@ -157,7 +160,8 @@
         "icon": "https://url/to/icon",
         "enabled": true,
         "baseColor": "#9b59b6",
-        "textColor": "#ffffff"
+        "textColor": "#ffffff",
+        "terms": "bla bla"
       },
       "relationships": {
         "playlist": {
