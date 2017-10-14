@@ -40,15 +40,10 @@
 				}]
 			},
 			"quality": {
-				"data": [{
+				"data": {
 						"type": "quality",
 						"id": 1
-					},
-					{
-						"type": "quality",
-						"id": 2
 					}
-				]
 			}
 		}
 	},
@@ -90,15 +85,11 @@
 				}]
 			},
 			"quality": {
-				"data": [{
-						"type": "quality",
-						"id": 1
-					},
-					{
+				"data": {
 						"type": "quality",
 						"id": 2
 					}
-				]
+				
 			}
 		}
 	},
@@ -140,15 +131,11 @@
 				}]
 			},
 			"quality": {
-				"data": [{
-						"type": "quality",
-						"id": 1
-					},
-					{
+				"data": {
 						"type": "quality",
 						"id": 2
 					}
-				]
+				
 			}
 		}
 	},
@@ -191,15 +178,11 @@
 				}]
 			},
 			"quality": {
-				"data": [{
-						"type": "quality",
-						"id": 1
-					},
-					{
+				"data": {
 						"type": "quality",
 						"id": 2
 					}
-				]
+				
 			}
 		}
 	}],
