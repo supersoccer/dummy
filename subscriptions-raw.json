@@ -193,6 +193,54 @@
 
         }
       }
+    },
+    {
+      "type": "subscription",
+      "id": "4",
+      "attributes": {
+        "title": "Super",
+        "description": "This is the description.",
+        "permission": 2,
+        "chargingBase": 1,
+        "maxQty": 0,
+        "price": 0,
+        "uom": "d",
+        "currency": "idr",
+        "order": 30,
+        "default": true,
+        "icon": "https://url/to/icon",
+        "enabled": true,
+        "baseColor": "#F2101A",
+        "textColor": "#ffffff",
+        "terms": "bla bla",
+        "parentId": "3",
+        "customOffers": [
+          {
+            "qty": 1,
+            "uom": "d",
+            "price": 15000,
+            "title": "+ VideoMax 2GB"
+          },
+          {
+            "qty": 2,
+            "uom": "d",
+            "price": 25000,
+            "title": "+ VideoMax 2GB"
+          },
+          {
+            "qty": 7,
+            "uom": "d",
+            "price": 50000,
+            "title": "+ VideoMax 3GB"
+          },
+          {
+            "qty": 30,
+            "uom": "d",
+            "price": 165000,
+            "title": "+ VideoMax 2GB"
+          }
+        ]
+      }
     }
   ],
   "included": [{
