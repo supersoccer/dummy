@@ -214,6 +214,9 @@
         "textColor": "#ffffff",
         "terms": "bla bla",
         "parentId": "3",
+        "clientLock": [
+          "yumivCDabqcdKreWzEO"
+        ],
         "customOffers": [
           {
             "qty": 1,
