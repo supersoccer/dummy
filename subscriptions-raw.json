@@ -103,7 +103,7 @@
         "description": "This is the description.",
         "permission": 2,
         "chargingBase": 1,
-        "maxQty": 12,
+        "maxQty": 9,
         "price": 125000,
         "uom": "m",
         "currency": "idr",
