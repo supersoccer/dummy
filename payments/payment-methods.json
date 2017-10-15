@@ -36,7 +36,7 @@
       "attributes": {
         "name": "Credit Card",
         "url": "https://",
-        "order": 10
+        "order": 30
       }
     },
     {
@@ -45,7 +45,7 @@
       "attributes": {
         "name": "Bank Transfer",
         "url": "https://",
-        "order": 20
+        "order": 40
       }
     }
   ]
