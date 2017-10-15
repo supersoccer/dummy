@@ -10,7 +10,10 @@
         "name": "Google Wallet",
         "url": "https://",
         "fee": 0.3,
-        "order": 10
+        "order": 10,
+        "clientLock": [
+          "qKiuLMvwNSO6rmyTGUjnP7ze"
+        ]
       }
     },
     
@@ -21,7 +24,10 @@
         "name": "Apple Pay",
         "url": "https://",
         "fee": 0.3,
-        "order": 20
+        "order": 20,
+        "clientLock": [
+          "iyjCzGqmeuSaHKrbfg6L2nM"
+        ]
       }
     },
     {
