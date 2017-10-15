@@ -11,7 +11,7 @@
         "permission": 2,
         "chargingBase": 1,
         "maxQty": 12,
-        "price": 35000,
+        "price": 125000,
         "priceUnit": "bulan",
         "currency": "idr",
         "order": 30,
