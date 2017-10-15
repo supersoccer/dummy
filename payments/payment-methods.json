@@ -1,0 +1,46 @@
+{
+  "jsonapi": {
+    "version": "1.0"
+  },
+  "data": [
+    {
+      "type": "payment-method",
+      "id": "1",
+      "attributes": {
+        "name": "Google Wallet",
+        "url": "https://",
+        "fee": 0.3,
+        "order": 10
+      }
+    },
+    
+    {
+      "type": "payment-method",
+      "id": "2",
+      "attributes": {
+        "name": "Apple Pay",
+        "url": "https://",
+        "fee": 0.3,
+        "order": 20
+      }
+    },
+    {
+      "type": "payment-method",
+      "id": "3",
+      "attributes": {
+        "name": "Credit Card",
+        "url": "https://",
+        "order": 10
+      }
+    },
+    {
+      "type": "payment-method",
+      "id": "1",
+      "attributes": {
+        "name": "Bank Transfer",
+        "url": "https://",
+        "order": 20
+      }
+    }
+  ]
+}
