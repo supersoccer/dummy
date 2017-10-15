@@ -87,16 +87,6 @@
         "name": "HD",
         "maxResolution": "720p"
       }
-    },
-    {
-      "type": "promo",
-      "id": 1,
-      "attributes": {
-        "type": "PERCENTOFF",
-        "title": "Disc. 12.5%",
-        "amount": 0.125,
-        "minQty": 12
-      }
     }
   ]
 }
