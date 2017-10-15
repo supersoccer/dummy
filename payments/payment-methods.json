@@ -27,7 +27,8 @@
         "order": 20,
         "clientLock": [
           "iyjCzGqmeuSaHKrbfg6L2nM"
-        ]
+        ],
+        "strictClientLock": true
       }
     },
     {
