@@ -161,7 +161,11 @@
         "enabled": true,
         "baseColor": "#9b59b6",
         "textColor": "#ffffff",
-        "terms": "bla bla"
+        "terms": "bla bla",
+        "clientLock": [
+          "GSyOzu2WPaAijqbX3Tv6HCQr",
+          "GCuHWO2PmqaniKrXIvsY"
+        ]
       },
       "relationships": {
         "playlist": {
