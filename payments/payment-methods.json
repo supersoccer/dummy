@@ -7,9 +7,10 @@
       "type": "payment-method",
       "id": "1",
       "attributes": {
-        "name": "Google Wallet",
+        "name": "Google In-App Purchase",
         "url": "https://",
         "fee": 0.3,
+        "feeUom": "%",
         "order": 10,
         "clientLock": [
           "qKiuLMvwNSO6rmyTGUjnP7ze"
@@ -21,9 +22,10 @@
       "type": "payment-method",
       "id": "2",
       "attributes": {
-        "name": "Apple Pay",
+        "name": "Apple In-App Purchase",
         "url": "https://",
         "fee": 0.3,
+        "feeUom": "%",
         "order": 20,
         "clientLock": [
           "iyjCzGqmeuSaHKrbfg6L2nM"
@@ -37,15 +39,18 @@
       "attributes": {
         "name": "Credit Card",
         "url": "https://",
+        "fee": 5000,
+        "feeUom": "cur",
         "order": 30
       }
     },
     {
       "type": "payment-method",
-      "id": "1",
+      "id": "4",
       "attributes": {
         "name": "Bank Transfer",
         "url": "https://",
+        "feeUom": "cur",
         "order": 40
       }
     }
