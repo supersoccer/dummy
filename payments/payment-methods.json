@@ -12,6 +12,7 @@
         "fee": 0.3,
         "feeUom": "%",
         "order": 10,
+        "enabled": true,
         "clientLock": [
           "qKiuLMvwNSO6rmyTGUjnP7ze"
         ]
@@ -27,6 +28,7 @@
         "fee": 0.3,
         "feeUom": "%",
         "order": 20,
+        "enabled": true,
         "clientLock": [
           "iyjCzGqmeuSaHKrbfg6L2nM"
         ],
@@ -41,7 +43,8 @@
         "url": "https://",
         "fee": 5000,
         "feeUom": "cur",
-        "order": 30
+        "order": 30,
+        "enabled": true,
       }
     },
     {
@@ -51,7 +54,8 @@
         "name": "Bank Transfer",
         "url": "https://",
         "feeUom": "cur",
-        "order": 40
+        "order": 40,
+        "enabled": true,
       }
     }
   ]
