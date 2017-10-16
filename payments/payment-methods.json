@@ -44,7 +44,7 @@
         "fee": 5000,
         "feeUom": "cur",
         "order": 30,
-        "enabled": true,
+        "enabled": true
       }
     },
     {
@@ -55,7 +55,7 @@
         "url": "https://",
         "feeUom": "cur",
         "order": 40,
-        "enabled": true,
+        "enabled": true
       }
     }
   ]
