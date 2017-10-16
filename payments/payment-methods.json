@@ -53,6 +53,7 @@
       "attributes": {
         "name": "Bank Transfer",
         "url": "https://",
+        "fee": 5000,
         "feeUom": "cur",
         "order": 40,
         "enabled": true
