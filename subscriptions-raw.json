@@ -4,7 +4,7 @@
   },
   "data": [{
       "type": "subscription",
-      "id": "1",
+      "id": "2",
       "attributes": {
         "title": "Premium",
         "description": "This is the description.",
@@ -50,7 +50,7 @@
     },
     {
       "type": "subscription",
-      "id": "2",
+      "id": "3",
       "attributes": {
         "title": "HD",
         "description": "This is the description.",
@@ -97,13 +97,13 @@
     },
     {
       "type": "subscription",
-      "id": "3",
+      "id": "4",
       "attributes": {
         "title": "Super",
         "description": "This is the description.",
         "permission": 2,
         "chargingBase": 1,
-        "maxQty": 9,
+        "maxQty": 1,
         "price": 125000,
         "uom": "m",
         "currency": "idr",
@@ -196,7 +196,7 @@
     },
     {
       "type": "subscription",
-      "id": "4",
+      "id": "6",
       "attributes": {
         "title": "Super",
         "description": "This is the description.",
