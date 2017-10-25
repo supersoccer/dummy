@@ -44,6 +44,7 @@
         "fee": 5000,
         "feeUom": "cur",
         "order": 30,
+        "channel": 15,
         "enabled": true
       }
     },
@@ -56,6 +57,7 @@
         "fee": 5000,
         "feeUom": "cur",
         "order": 40,
+        "channel": 36,
         "enabled": true
       }
     }
