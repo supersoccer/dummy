@@ -80,12 +80,6 @@
             }
           ]
         },
-        "promo": {
-          "data": [{
-            "type": "promo",
-            "id": 1
-          }]
-        },
         "quality": {
           "data": {
             "type": "quality",
@@ -126,12 +120,6 @@
               "id": "PL9"
             }
           ]
-        },
-        "promo": {
-          "data": [{
-            "type": "promo",
-            "id": 1
-          }]
         },
         "quality": {
           "data": {
