@@ -34,6 +34,12 @@
             }
           ]
         },
+        "promo": {
+          "data": [{
+            "type": "promo",
+            "id": 1
+          }]
+        },
         "quality": {
           "data": {
             "type": "quality",
@@ -73,6 +79,12 @@
               "id": "PL9"
             }
           ]
+        },
+        "promo": {
+          "data": [{
+            "type": "promo",
+            "id": 2
+          }]
         },
         "quality": {
           "data": {
@@ -271,8 +283,18 @@
       "id": 1,
       "attributes": {
         "type": "PERCENTOFF",
-        "title": "Disc. 12.5%",
+        "title": "Disc. 37.5%",
         "amount": 0.125,
+        "minQty": 12
+      }
+    },
+    {
+      "type": "promo",
+      "id": 2,
+      "attributes": {
+        "type": "PRICEOFF",
+        "title": "Disc. 41.67%",
+        "amount": 250000,
         "minQty": 12
       }
     }
