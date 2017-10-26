@@ -34,12 +34,6 @@
             }
           ]
         },
-        "promo": {
-          "data": [{
-            "type": "promo",
-            "id": 3
-          }]
-        },
         "quality": {
           "data": {
             "type": "quality",
@@ -79,12 +73,6 @@
               "id": "PL9"
             }
           ]
-        },
-        "promo": {
-          "data": [{
-            "type": "promo",
-            "id": 2
-          }]
         },
         "quality": {
           "data": {
@@ -145,7 +133,7 @@
         "description": "English Premier League, La Liga, UEFA Champions League",
         "permission": 2,
         "chargingBase": 1,
-        "maxQty": 1,
+        "maxQty": 12,
         "price": 99000,
         "uom": "m",
         "currency": "idr",
@@ -211,8 +199,7 @@
         "clientLock": [
           "yumivCDabqcdKreWzEO"
         ],
-        "customOffers": [
-          {
+        "customOffers": [{
             "qty": 1,
             "uom": "d",
             "price": 15000,
@@ -283,19 +270,9 @@
       "type": "promo",
       "id": 1,
       "attributes": {
-        "type": "PRICEOFF",
-        "title": "Disc. 41.67%",
-        "amount": 250000,
-        "minQty": 12
-      }
-    },
-    {
-      "type": "promo",
-      "id": 2,
-      "attributes": {
         "type": "PERCENTOFF",
-        "title": "Disc. 37.5%",
-        "amount": 0.375,
+        "title": "Disc. 12.5%",
+        "amount": 0.125,
         "minQty": 12
       }
     }
