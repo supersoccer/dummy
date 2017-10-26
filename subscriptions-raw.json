@@ -37,7 +37,7 @@
         "promo": {
           "data": [{
             "type": "promo",
-            "id": 1
+            "id": 2
           }]
         },
         "quality": {
@@ -83,7 +83,7 @@
         "promo": {
           "data": [{
             "type": "promo",
-            "id": 2
+            "id": 1
           }]
         },
         "quality": {
