@@ -99,7 +99,7 @@
       "type": "subscription",
       "id": "4",
       "attributes": {
-        "title": "Super",
+        "title": "Super (SSTV + beIN Sport)",
         "description": "Serie A, English Premier League, La Liga, UEFA Champions League, MUTV, FA Cup, Copa Libertadores, Replay, Video on Demand",
         "permission": 2,
         "chargingBase": 1,
