@@ -145,7 +145,7 @@
         "description": "English Premier League, La Liga, UEFA Champions League",
         "permission": 2,
         "chargingBase": 1,
-        "maxQty": 12,
+        "maxQty": 1,
         "price": 99000,
         "uom": "m",
         "currency": "idr",
