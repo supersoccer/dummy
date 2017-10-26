@@ -37,7 +37,7 @@
         "promo": {
           "data": [{
             "type": "promo",
-            "id": 1
+            "id": 3
           }]
         },
         "quality": {
@@ -79,6 +79,12 @@
               "id": "PL9"
             }
           ]
+        },
+        "promo": {
+          "data": [{
+            "type": "promo",
+            "id": 2
+          }]
         },
         "quality": {
           "data": {
@@ -277,9 +283,19 @@
       "type": "promo",
       "id": 1,
       "attributes": {
+        "type": "PRICEOFF",
+        "title": "Disc. 41.67%",
+        "amount": 250000,
+        "minQty": 12
+      }
+    },
+    {
+      "type": "promo",
+      "id": 2,
+      "attributes": {
         "type": "PERCENTOFF",
-        "title": "Disc. 12.5%",
-        "amount": 0.125,
+        "title": "Disc. 37.5%",
+        "amount": 0.375,
         "minQty": 12
       }
     }
