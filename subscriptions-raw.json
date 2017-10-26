@@ -11,7 +11,7 @@
         "permission": 2,
         "chargingBase": 1,
         "maxQty": 12,
-        "price": 50000,
+        "price": 10000,
         "uom": "m",
         "currency": "idr",
         "order": 10,
