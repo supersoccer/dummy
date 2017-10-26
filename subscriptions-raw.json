@@ -284,7 +284,7 @@
       "attributes": {
         "type": "PERCENTOFF",
         "title": "Disc. 37.5%",
-        "amount": 0.125,
+        "amount": 0.375,
         "minQty": 12
       }
     },
