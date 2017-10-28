@@ -6,7 +6,7 @@
       "type": "subscription",
       "id": "2",
       "attributes": {
-        "title": "Premium",
+        "title": "SSTV Premium",
         "description": "Serie A, MUTV, FA Cup, Copa Libertadores, Replay, Video on Demand",
         "permission": 2,
         "chargingBase": 1,
@@ -52,7 +52,7 @@
       "type": "subscription",
       "id": "3",
       "attributes": {
-        "title": "HD",
+        "title": "SSTV HD",
         "description": "Serie A, MUTV, FA Cup, Copa Libertadores, Replay, Video on Demand",
         "permission": 2,
         "chargingBase": 1,
