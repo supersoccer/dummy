@@ -58,7 +58,7 @@
         "feeUom": "cur",
         "order": 40,
         "channel": 36,
-        "enabled": true
+        "enabled": false
       }
     }
   ]
