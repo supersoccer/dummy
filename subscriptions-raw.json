@@ -1,370 +1,370 @@
 {
-  "jsonapi": {
-    "version": "1.0"
-  },
-  "data": [{
-      "type": "subscription",
-      "id": "3",
-      "attributes": {
-        "title": "SSTV HD",
-        "description": "Serie A, MUTV, FA Cup, Copa Libertadores, Replay, Video on Demand",
-        "permission": 2,
-        "chargingBase": 1,
-        "maxQty": 12,
-        "price": 100000,
-        "uom": "m",
-        "currency": "idr",
-        "order": 20,
-        "default": true,
-        "icon": "https://url/to/icon",
-        "enabled": true,
-        "baseColor": "#1abc9c",
-        "textColor": "#ffffff",
-        "terms": "bla bla"
-      },
-      "relationships": {
-        "playlist": {
-          "data": [{
-              "type": "playlist",
-              "id": "PL5"
-            },
-            {
-              "type": "playlist",
-              "id": "PL9"
-            }
-          ]
-        },
-        "promo": {
-          "data": [{
-            "type": "promo",
-            "id": 3
-          },{
-            "type": "promo",
-            "id": 4
-          },{
-            "type": "promo",
-            "id": 5
-          },{
-            "type": "promo",
-            "id": 6
-          },{
-            "type": "promo",
-            "id": 7
-          },{
-            "type": "promo",
-            "id": 8
-          },{
-            "type": "promo",
-            "id": 9
-          },{
-            "type": "promo",
-            "id": 10
-          },{
-            "type": "promo",
-            "id": 11
-          }]
-        },
-        "quality": {
-          "data": {
-            "type": "quality",
-            "id": 2
-          }
+	"jsonapi": {
+		"version": "1.0"
+	},
+	"data": [{
+			"type": "subscription",
+			"id": "3",
+			"attributes": {
+				"title": "SSTV HD",
+				"description": "Serie A, MUTV, FA Cup, Copa Libertadores, Replay, Video on Demand",
+				"permission": 2,
+				"chargingBase": 1,
+				"maxQty": 12,
+				"price": 100000,
+				"uom": "m",
+				"currency": "idr",
+				"order": 20,
+				"default": true,
+				"icon": "https://url/to/icon",
+				"enabled": true,
+				"baseColor": "#1abc9c",
+				"textColor": "#ffffff",
+				"terms": "bla bla"
+			},
+			"relationships": {
+				"playlist": {
+					"data": [{
+							"type": "playlist",
+							"id": "PL5"
+						},
+						{
+							"type": "playlist",
+							"id": "PL9"
+						}
+					]
+				},
+				"promo": {
+					"data": [{
+						"type": "promo",
+						"id": 3
+					}, {
+						"type": "promo",
+						"id": 4
+					}, {
+						"type": "promo",
+						"id": 5
+					}, {
+						"type": "promo",
+						"id": 6
+					}, {
+						"type": "promo",
+						"id": 7
+					}, {
+						"type": "promo",
+						"id": 8
+					}, {
+						"type": "promo",
+						"id": 9
+					}, {
+						"type": "promo",
+						"id": 10
+					}, {
+						"type": "promo",
+						"id": 11
+					}]
+				},
+				"quality": {
+					"data": {
+						"type": "quality",
+						"id": 2
+					}
 
-        }
-      }
-    },
-    {
-      "type": "subscription",
-      "id": "4",
-      "attributes": {
-        "title": "Super (SSTV HD + beIN HD)",
-        "description": "Serie A, English Premier League, La Liga, UEFA Champions League, MUTV, FA Cup, Copa Libertadores, Replay, Video on Demand",
-        "permission": 2,
-        "chargingBase": 1,
-        "maxQty": 1,
-        "price": 100000,
-        "uom": "m",
-        "currency": "idr",
-        "order": 40,
-        "default": true,
-        "icon": "https://url/to/icon",
-        "enabled": true,
-        "baseColor": "#F2101A",
-        "textColor": "#ffffff",
-        "terms": "bla bla"
-      },
-      "relationships": {
-        "playlist": {
-          "data": [{
-              "type": "playlist",
-              "id": "PL5"
-            },
-            {
-              "type": "playlist",
-              "id": "PL9"
-            }
-          ]
-        },
-        "quality": {
-          "data": {
-            "type": "quality",
-            "id": 2
-          }
+				}
+			}
+		},
+		{
+			"type": "subscription",
+			"id": "4",
+			"attributes": {
+				"title": "Super (SSTV HD + beIN HD)",
+				"description": "Serie A, English Premier League, La Liga, UEFA Champions League, MUTV, FA Cup, Copa Libertadores, Replay, Video on Demand",
+				"permission": 2,
+				"chargingBase": 1,
+				"maxQty": 1,
+				"price": 100000,
+				"uom": "m",
+				"currency": "idr",
+				"order": 40,
+				"default": true,
+				"icon": "https://url/to/icon",
+				"enabled": true,
+				"baseColor": "#F2101A",
+				"textColor": "#ffffff",
+				"terms": "bla bla"
+			},
+			"relationships": {
+				"playlist": {
+					"data": [{
+							"type": "playlist",
+							"id": "PL5"
+						},
+						{
+							"type": "playlist",
+							"id": "PL9"
+						}
+					]
+				},
+				"quality": {
+					"data": {
+						"type": "quality",
+						"id": 2
+					}
 
-        }
-      }
-    },
-    {
-      "type": "subscription",
-      "id": "5",
-      "attributes": {
+				}
+			}
+		},
+		{
+			"type": "subscription",
+			"id": "5",
+			"attributes": {
 
-        "title": "beIN",
-        "description": "English Premier League, La Liga, UEFA Champions League",
-        "permission": 2,
-        "chargingBase": 1,
-        "maxQty": 1,
-        "price": 75000,
-        "uom": "m",
-        "currency": "idr",
-        "order": 100,
-        "default": true,
-        "icon": "https://url/to/icon",
-        "enabled": true,
-        "baseColor": "#9b59b6",
-        "textColor": "#ffffff",
-        "terms": "bla bla",
-        "clientLock": [
-          "GSyOzu2WPaAijqbX3Tv6HCQr",
-          "GCuHWO2PmqaniKrXIvsY"
-        ]
-      },
-      "relationships": {
-        "playlist": {
-          "data": [{
-              "type": "playlist",
-              "id": "PL5"
-            },
-            {
-              "type": "playlist",
-              "id": "PL9"
-            }
-          ]
-        },
-        "promo": {
-          "data": [{
-            "type": "promo",
-            "id": 1
-          }]
-        },
-        "quality": {
-          "data": {
-            "type": "quality",
-            "id": 2
-          }
+				"title": "beIN",
+				"description": "English Premier League, La Liga, UEFA Champions League",
+				"permission": 2,
+				"chargingBase": 1,
+				"maxQty": 1,
+				"price": 75000,
+				"uom": "m",
+				"currency": "idr",
+				"order": 100,
+				"default": true,
+				"icon": "https://url/to/icon",
+				"enabled": true,
+				"baseColor": "#9b59b6",
+				"textColor": "#ffffff",
+				"terms": "bla bla",
+				"clientLock": [
+					"GSyOzu2WPaAijqbX3Tv6HCQr",
+					"GCuHWO2PmqaniKrXIvsY"
+				]
+			},
+			"relationships": {
+				"playlist": {
+					"data": [{
+							"type": "playlist",
+							"id": "PL5"
+						},
+						{
+							"type": "playlist",
+							"id": "PL9"
+						}
+					]
+				},
+				"promo": {
+					"data": [{
+						"type": "promo",
+						"id": 1
+					}]
+				},
+				"quality": {
+					"data": {
+						"type": "quality",
+						"id": 2
+					}
 
-        }
-      }
-    },
-    {
-      "type": "subscription",
-      "id": "6",
-      "attributes": {
-        "title": "Super",
-        "description": "This is the description.",
-        "permission": 2,
-        "chargingBase": 1,
-        "maxQty": 0,
-        "price": 0,
-        "uom": "d",
-        "currency": "idr",
-        "order": 50,
-        "default": true,
-        "icon": "https://url/to/icon",
-        "enabled": true,
-        "baseColor": "#F2101A",
-        "textColor": "#ffffff",
-        "terms": "bla bla",
-        "parentId": "3",
-        "clientLock": [
-          "yumivCDabqcdKreWzEO"
-        ],
-        "customOffers": [{
-            "qty": 1,
-            "uom": "d",
-            "price": 15000,
-            "title": "+ VideoMax 2GB"
-          },
-          {
-            "qty": 2,
-            "uom": "d",
-            "price": 25000,
-            "title": "+ VideoMax 2GB"
-          },
-          {
-            "qty": 7,
-            "uom": "d",
-            "price": 50000,
-            "title": "+ VideoMax 3GB"
-          },
-          {
-            "qty": 30,
-            "uom": "d",
-            "price": 165000,
-            "title": "+ VideoMax 8GB"
-          }
-        ]
-      }
-    }
-  ],
-  "included": [{
-      "type": "playlist",
-      "id": "PL9",
-      "attributes": {
-        "name": "La Liga 2017-2018"
-      }
-    }, {
-      "type": "playlist",
-      "id": "PL5",
-      "attributes": {
-        "name": "La Liga"
-      }
-    },
-    {
-      "type": "quality",
-      "id": 1,
-      "attributes": {
-        "name": "SD",
-        "width": 1024,
-        "height": 576
-      }
-    },
-    {
-      "type": "quality",
-      "id": 2,
-      "attributes": {
-        "name": "HD",
-        "width": 1280,
-        "height": 720
-      }
-    },
-    {
-      "type": "playlist",
-      "id": 2,
-      "attributes": {
-        "name": "HD",
-        "maxResolution": "720p"
-      }
-    },
-    {
-      "type": "promo",
-      "id": 1,
-      "attributes": {
-        "type": "PERCENTOFF",
-        "title": "Disc. 37.5%",
-        "amount": 0.375,
-        "minQty": 12
-      }
-    },
-    {
-      "type": "promo",
-      "id": 2,
-      "attributes": {
-        "type": "PRICEOFF",
-        "title": "Disc. 41.67%",
-        "amount": 250000,
-        "minQty": 12
-      }
-    },
-    {
-      "type": "promo",
-      "id": 3,
-      "attributes": {
-        "type": "PERCENTOFF",
-        "title": "PROMO NOVEMBER - Disc. 50%",
-        "amount": 0.5,
-        "minQty": 1
-      }
-    },
-    {
-      "type": "promo",
-      "id": 4,
-      "attributes": {
-        "type": "PERCENTOFF",
-        "title": "PROMO NOVEMBER - Disc. 52.50%",
-        "amount": 0.525,
-        "minQty": 2
-      }
-    },
-    {
-      "type": "promo",
-      "id": 5,
-      "attributes": {
-        "type": "PERCENTOFF",
-        "title": "PROMO NOVEMBER - Disc. 55%",
-        "amount": 0.55,
-        "minQty": 3
-      }
-    },
-    {
-      "type": "promo",
-      "id": 6,
-      "attributes": {
-        "type": "PERCENTOFF",
-        "title": "PROMO NOVEMBER - Disc. 59%",
-        "amount": 0.59,
-        "minQty": 6
-      }
-    },
-    {
-      "type": "promo",
-      "id": 7,
-      "attributes": {
-        "type": "PERCENTOFF",
-        "title": "PROMO NOVEMBER - Disc. 62.50%",
-        "amount": 0.625,
-        "minQty": 8
-      }
-    },
-    {
-      "type": "promo",
-      "id": 8,
-      "attributes": {
-        "type": "PERCENTOFF",
-        "title": "PROMO NOVEMBER - Disc. 65%",
-        "amount": 0.65,
-        "minQty": 9
-      }
-    },
-    {
-      "type": "promo",
-      "id": 9,
-      "attributes": {
-        "type": "PERCENTOFF",
-        "title": "PROMO NOVEMBER - Disc. 67.50%",
-        "amount": 0.675,
-        "minQty": 10
-      }
-    },
-    {
-      "type": "promo",
-      "id": 10,
-      "attributes": {
-        "type": "PERCENTOFF,
-        "title": "PROMO NOVEMBER - Disc. 70%",
-        "amount": 0.7,
-        "minQty": 11
-      }
-    },
-    {
-      "type": "promo",
-      "id": 11,
-      "attributes": {
-        "type": "PRICEOFF",
-        "title": "PROMO NOVEMBER - Disc. 70.83%",
-        "amount": 850000,
-        "minQty": 12
-      }
-    }
-  ]
+				}
+			}
+		},
+		{
+			"type": "subscription",
+			"id": "6",
+			"attributes": {
+				"title": "Super",
+				"description": "This is the description.",
+				"permission": 2,
+				"chargingBase": 1,
+				"maxQty": 0,
+				"price": 0,
+				"uom": "d",
+				"currency": "idr",
+				"order": 50,
+				"default": true,
+				"icon": "https://url/to/icon",
+				"enabled": true,
+				"baseColor": "#F2101A",
+				"textColor": "#ffffff",
+				"terms": "bla bla",
+				"parentId": "3",
+				"clientLock": [
+					"yumivCDabqcdKreWzEO"
+				],
+				"customOffers": [{
+						"qty": 1,
+						"uom": "d",
+						"price": 15000,
+						"title": "+ VideoMax 2GB"
+					},
+					{
+						"qty": 2,
+						"uom": "d",
+						"price": 25000,
+						"title": "+ VideoMax 2GB"
+					},
+					{
+						"qty": 7,
+						"uom": "d",
+						"price": 50000,
+						"title": "+ VideoMax 3GB"
+					},
+					{
+						"qty": 30,
+						"uom": "d",
+						"price": 165000,
+						"title": "+ VideoMax 8GB"
+					}
+				]
+			}
+		}
+	],
+	"included": [{
+			"type": "playlist",
+			"id": "PL9",
+			"attributes": {
+				"name": "La Liga 2017-2018"
+			}
+		}, {
+			"type": "playlist",
+			"id": "PL5",
+			"attributes": {
+				"name": "La Liga"
+			}
+		},
+		{
+			"type": "quality",
+			"id": 1,
+			"attributes": {
+				"name": "SD",
+				"width": 1024,
+				"height": 576
+			}
+		},
+		{
+			"type": "quality",
+			"id": 2,
+			"attributes": {
+				"name": "HD",
+				"width": 1280,
+				"height": 720
+			}
+		},
+		{
+			"type": "playlist",
+			"id": 2,
+			"attributes": {
+				"name": "HD",
+				"maxResolution": "720p"
+			}
+		},
+		{
+			"type": "promo",
+			"id": 1,
+			"attributes": {
+				"type": "PERCENTOFF",
+				"title": "Disc. 37.5%",
+				"amount": 0.375,
+				"minQty": 12
+			}
+		},
+		{
+			"type": "promo",
+			"id": 2,
+			"attributes": {
+				"type": "PRICEOFF",
+				"title": "Disc. 41.67%",
+				"amount": 250000,
+				"minQty": 12
+			}
+		},
+		{
+			"type": "promo",
+			"id": 3,
+			"attributes": {
+				"type": "PERCENTOFF",
+				"title": "PROMO NOVEMBER - Disc. 50%",
+				"amount": 0.5,
+				"minQty": 1
+			}
+		},
+		{
+			"type": "promo",
+			"id": 4,
+			"attributes": {
+				"type": "PERCENTOFF",
+				"title": "PROMO NOVEMBER - Disc. 52.50%",
+				"amount": 0.525,
+				"minQty": 2
+			}
+		},
+		{
+			"type": "promo",
+			"id": 5,
+			"attributes": {
+				"type": "PERCENTOFF",
+				"title": "PROMO NOVEMBER - Disc. 55%",
+				"amount": 0.55,
+				"minQty": 3
+			}
+		},
+		{
+			"type": "promo",
+			"id": 6,
+			"attributes": {
+				"type": "PERCENTOFF",
+				"title": "PROMO NOVEMBER - Disc. 59%",
+				"amount": 0.59,
+				"minQty": 6
+			}
+		},
+		{
+			"type": "promo",
+			"id": 7,
+			"attributes": {
+				"type": "PERCENTOFF",
+				"title": "PROMO NOVEMBER - Disc. 62.50%",
+				"amount": 0.625,
+				"minQty": 8
+			}
+		},
+		{
+			"type": "promo",
+			"id": 8,
+			"attributes": {
+				"type": "PERCENTOFF",
+				"title": "PROMO NOVEMBER - Disc. 65%",
+				"amount": 0.65,
+				"minQty": 9
+			}
+		},
+		{
+			"type": "promo",
+			"id": 9,
+			"attributes": {
+				"type": "PERCENTOFF",
+				"title": "PROMO NOVEMBER - Disc. 67.50%",
+				"amount": 0.675,
+				"minQty": 10
+			}
+		},
+		{
+			"type": "promo",
+			"id": 10,
+			"attributes": {
+				"type": "PERCENTOFF",
+				"title": "PROMO NOVEMBER - Disc. 70%",
+				"amount": 0.7,
+				"minQty": 11
+			}
+		},
+		{
+			"type": "promo",
+			"id": 11,
+			"attributes": {
+				"type": "PRICEOFF",
+				"title": "PROMO NOVEMBER - Disc. 70.83%",
+				"amount": 850000,
+				"minQty": 12
+			}
+		}
+	]
 }
