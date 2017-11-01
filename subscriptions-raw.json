@@ -4,52 +4,6 @@
   },
   "data": [{
       "type": "subscription",
-      "id": "2",
-      "attributes": {
-        "title": "SSTV Premium",
-        "description": "Serie A, MUTV, FA Cup, Copa Libertadores, Replay, Video on Demand",
-        "permission": 2,
-        "chargingBase": 1,
-        "maxQty": 12,
-        "price": 50000,
-        "uom": "m",
-        "currency": "idr",
-        "order": 10,
-        "default": true,
-        "icon": "https://url/to/icon",
-        "enabled": false,
-        "baseColor": "#f1c40f",
-        "textColor": "#ffffff",
-        "terms": "bla bla"
-      },
-      "relationships": {
-        "playlist": {
-          "data": [{
-              "type": "playlist",
-              "id": "PL5"
-            },
-            {
-              "type": "playlist",
-              "id": "PL9"
-            }
-          ]
-        },
-        "promo": {
-          "data": [{
-            "type": "promo",
-            "id": 2
-          }]
-        },
-        "quality": {
-          "data": {
-            "type": "quality",
-            "id": 1
-          }
-        }
-      }
-    },
-    {
-      "type": "subscription",
       "id": "3",
       "attributes": {
         "title": "SSTV HD",
@@ -84,6 +38,27 @@
           "data": [{
             "type": "promo",
             "id": 3
+          },{
+            "type": "promo",
+            "id": 4
+          },{
+            "type": "promo",
+            "id": 5
+          },{
+            "type": "promo",
+            "id": 6
+          },{
+            "type": "promo",
+            "id": 7
+          },{
+            "type": "promo",
+            "id": 8
+          },{
+            "type": "promo",
+            "id": 9
+          },{
+            "type": "promo",
+            "id": 10
           }]
         },
         "quality": {
@@ -303,9 +278,79 @@
       "id": 3,
       "attributes": {
         "type": "PERCENTOFF",
-        "title": "PROMO NOVEMBER - Disc. 50%",
-        "amount": 0.5,
+        "title": "PROMO NOVEMBER - Disc. 5%",
+        "amount": 0.05,
+        "minQty": 2
+      }
+    },
+    {
+      "type": "promo",
+      "id": 4,
+      "attributes": {
+        "type": "PERCENTOFF",
+        "title": "PROMO NOVEMBER - Disc. 10%",
+        "amount": 0.1,
+        "minQty": 3
+      }
+    },
+    {
+      "type": "promo",
+      "id": 5,
+      "attributes": {
+        "type": "PERCENTOFF",
+        "title": "PROMO NOVEMBER - Disc. 18%",
+        "amount": 0.18,
+        "minQty": 6
+      }
+    },
+    {
+      "type": "promo",
+      "id": 6,
+      "attributes": {
+        "type": "PERCENTOFF",
+        "title": "PROMO NOVEMBER - Disc. 25%",
+        "amount": 0.25,
+        "minQty": 8
+      }
+    },
+    {
+      "type": "promo",
+      "id": 7,
+      "attributes": {
+        "type": "PERCENTOFF",
+        "title": "PROMO NOVEMBER - Disc. 30%",
+        "amount": 0.3,
+        "minQty": 9
+      }
+    },
+    {
+      "type": "promo",
+      "id": 8,
+      "attributes": {
+        "type": "PERCENTOFF",
+        "title": "PROMO NOVEMBER - Disc. 35%",
+        "amount": 0.35,
+        "minQty": 10
+      }
+    },
+    {
+      "type": "promo",
+      "id": 9,
+      "attributes": {
+        "type": "PERCENTOFF",
+        "title": "PROMO NOVEMBER - Disc. 40%",
+        "amount": 0.4,
         "minQty": 1
+      }
+    },
+    {
+      "type": "promo",
+      "id": 10,
+      "attributes": {
+        "type": "PRICEOFF",
+        "title": "PROMO NOVEMBER - Disc. 41.67%",
+        "amount": 250000,
+        "minQty": 12
       }
     }
   ]
