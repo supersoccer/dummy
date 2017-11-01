@@ -17,7 +17,7 @@
         "order": 10,
         "default": true,
         "icon": "https://url/to/icon",
-        "enabled": true,
+        "enabled": false,
         "baseColor": "#f1c40f",
         "textColor": "#ffffff",
         "terms": "bla bla"
@@ -57,7 +57,7 @@
         "permission": 2,
         "chargingBase": 1,
         "maxQty": 12,
-        "price": 95000,
+        "price": 100000,
         "uom": "m",
         "currency": "idr",
         "order": 20,
@@ -83,7 +83,7 @@
         "promo": {
           "data": [{
             "type": "promo",
-            "id": 1
+            "id": 3
           }]
         },
         "quality": {
@@ -99,7 +99,7 @@
       "type": "subscription",
       "id": "4",
       "attributes": {
-        "title": "Super (SSTV Premium + beIN HD)",
+        "title": "Super (SSTV HD + beIN HD)",
         "description": "Serie A, English Premier League, La Liga, UEFA Champions League, MUTV, FA Cup, Copa Libertadores, Replay, Video on Demand",
         "permission": 2,
         "chargingBase": 1,
@@ -296,6 +296,16 @@
         "title": "Disc. 41.67%",
         "amount": 250000,
         "minQty": 12
+      }
+    },
+    {
+      "type": "promo",
+      "id": 3,
+      "attributes": {
+        "type": "PERCENTOFF",
+        "title": "PROMO NOVEMBER - Disc. 50%",
+        "amount": 0.5,
+        "minQty": 1
       }
     }
   ]
