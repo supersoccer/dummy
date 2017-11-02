@@ -289,7 +289,7 @@
 			"attributes": {
 				"type": "PERCENTOFF",
 				"title": "PROMO NOVEMBER - Disc. 5%",
-				"amount": 0.5,
+				"amount": 0.05,
 				"minQty": 2
 			}
 		},
