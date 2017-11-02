@@ -11,7 +11,7 @@
 				"permission": 2,
 				"chargingBase": 1,
 				"maxQty": 12,
-				"price": 100000,
+				"price": 50000,
 				"uom": "m",
 				"currency": "idr",
 				"order": 20,
@@ -36,9 +36,6 @@
 				},
 				"promo": {
 					"data": [{
-						"type": "promo",
-						"id": 3
-					}, {
 						"type": "promo",
 						"id": 4
 					}, {
@@ -291,8 +288,8 @@
 			"id": 4,
 			"attributes": {
 				"type": "PERCENTOFF",
-				"title": "PROMO NOVEMBER - Disc. 52.50%",
-				"amount": 0.525,
+				"title": "PROMO NOVEMBER - Disc. 5%",
+				"amount": 0.5,
 				"minQty": 2
 			}
 		},
@@ -301,8 +298,8 @@
 			"id": 5,
 			"attributes": {
 				"type": "PERCENTOFF",
-				"title": "PROMO NOVEMBER - Disc. 55%",
-				"amount": 0.55,
+				"title": "PROMO NOVEMBER - Disc. 10%",
+				"amount": 0.1,
 				"minQty": 3
 			}
 		},
@@ -311,8 +308,8 @@
 			"id": 6,
 			"attributes": {
 				"type": "PERCENTOFF",
-				"title": "PROMO NOVEMBER - Disc. 59%",
-				"amount": 0.59,
+				"title": "PROMO NOVEMBER - Disc. 18%",
+				"amount": 0.18,
 				"minQty": 6
 			}
 		},
@@ -321,8 +318,8 @@
 			"id": 7,
 			"attributes": {
 				"type": "PERCENTOFF",
-				"title": "PROMO NOVEMBER - Disc. 62.50%",
-				"amount": 0.625,
+				"title": "PROMO NOVEMBER - Disc. 25%",
+				"amount": 0.25,
 				"minQty": 8
 			}
 		},
@@ -331,8 +328,8 @@
 			"id": 8,
 			"attributes": {
 				"type": "PERCENTOFF",
-				"title": "PROMO NOVEMBER - Disc. 65%",
-				"amount": 0.65,
+				"title": "PROMO NOVEMBER - Disc. 30%",
+				"amount": 0.3,
 				"minQty": 9
 			}
 		},
@@ -341,8 +338,8 @@
 			"id": 9,
 			"attributes": {
 				"type": "PERCENTOFF",
-				"title": "PROMO NOVEMBER - Disc. 67.50%",
-				"amount": 0.675,
+				"title": "PROMO NOVEMBER - Disc. 35%",
+				"amount": 0.35,
 				"minQty": 10
 			}
 		},
@@ -351,8 +348,8 @@
 			"id": 10,
 			"attributes": {
 				"type": "PERCENTOFF",
-				"title": "PROMO NOVEMBER - Disc. 70%",
-				"amount": 0.7,
+				"title": "PROMO NOVEMBER - Disc. 40%",
+				"amount": 0.4,
 				"minQty": 11
 			}
 		},
@@ -361,8 +358,8 @@
 			"id": 11,
 			"attributes": {
 				"type": "PRICEOFF",
-				"title": "PROMO NOVEMBER - Disc. 70.83%",
-				"amount": 850000,
+				"title": "PROMO NOVEMBER - Disc. 41.67%",
+				"amount": 250000,
 				"minQty": 12
 			}
 		}
