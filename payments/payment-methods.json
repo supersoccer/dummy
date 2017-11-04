@@ -12,7 +12,7 @@
         "fee": 0.3,
         "feeUom": "%",
         "order": 10,
-        "enabled": true,
+        "enabled": false,
         "clientLock": [
           "qKiuLMvwNSO6rmyTGUjnP7ze"
         ]
@@ -28,7 +28,7 @@
         "fee": 0.3,
         "feeUom": "%",
         "order": 20,
-        "enabled": true,
+        "enabled": false,
         "clientLock": [
           "iyjCzGqmeuSaHKrbfg6L2nM"
         ],
