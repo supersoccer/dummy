@@ -182,8 +182,6 @@
 				"baseColor": "#F2101A",
 				"textColor": "#ffffff",
 				"terms": "bla bla",
-				"parentId": "3",
-				"clientLock": [],
 				"customOffers": [{
 						"qty": 1,
 						"uom": "d",
