@@ -4279,6 +4279,78 @@
         "name":"Xanthi U-19",
         "logo":"https://cdn03.supersoccer.tv/v4/images/clubs/238.png"
       }
+    },
+    {
+      "id":536,
+      "type":"teams",
+      "attributes":{
+        "name":"Garuda Select",
+        "logo":"https://cdn03.supersoccer.tv/v4/images/clubs/536.png"
+      }
+    },
+    {
+      "id":537,
+      "type":"teams",
+      "attributes":{
+        "name":"Walsall U-18",
+        "logo":"https://cdn03.supersoccer.tv/v4/images/clubs/537.png"
+      }
+    },
+    {
+      "id":538,
+      "type":"teams",
+      "attributes":{
+        "name":"Macclesfield U-18",
+        "logo":"https://cdn03.supersoccer.tv/v4/images/clubs/538.png"
+      }
+    },
+    {
+      "id":539,
+      "type":"teams",
+      "attributes":{
+        "name":"MK Dons U-18",
+        "logo":"https://cdn03.supersoccer.tv/v4/images/clubs/539.png"
+      }
+    },
+    {
+      "id":540,
+      "type":"teams",
+      "attributes":{
+        "name":"Gillingham U-18",
+        "logo":"https://cdn03.supersoccer.tv/v4/images/clubs/540.png"
+      }
+    },
+    {
+      "id":541,
+      "type":"teams",
+      "attributes":{
+        "name":"QPR U-18",
+        "logo":"https://cdn03.supersoccer.tv/v4/images/clubs/541.png"
+      }
+    },
+    {
+      "id":542,
+      "type":"teams",
+      "attributes":{
+        "name":"Blackburn Rovers U-18",
+        "logo":"https://cdn03.supersoccer.tv/v4/images/clubs/542.png"
+      }
+    },
+    {
+      "id":543,
+      "type":"teams",
+      "attributes":{
+        "name":"Charlton Atheltic U-18",
+        "logo":"https://cdn03.supersoccer.tv/v4/images/clubs/543.png"
+      }
+    },
+    {
+      "id":544,
+      "type":"teams",
+      "attributes":{
+        "name":"Reading U-18",
+        "logo":"https://cdn03.supersoccer.tv/v4/images/clubs/544.png"
+      }
     }
   ]
 }
