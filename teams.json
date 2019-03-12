@@ -4351,6 +4351,14 @@
         "name":"Reading U-18",
         "logo":"https://cdn03.supersoccer.tv/v4/images/clubs/544.png"
       }
+    },
+    {
+      "id":545,
+      "type":"teams",
+      "attributes":{
+        "name":"Midtjylland U-18",
+        "logo":"https://cdn03.supersoccer.tv/v4/images/clubs/default.png"
+      }
     }
   ]
 }
